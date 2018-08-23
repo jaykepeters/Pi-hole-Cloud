@@ -8,6 +8,5 @@
 - Learn about Let's Encrypt: Free SSL Certificates
 - Learn about Cron jobs and how to schedule them
 
-## Tutorials
-# Google Cloud Platform
+# Pi-hole On Google Cloud Platform
 - [Click here](GCP.md)
