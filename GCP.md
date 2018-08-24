@@ -19,3 +19,5 @@ $ curl -sSL https://install.pi-hole.net | bash
 - Le wildcard certificates
 - Cron jobs (again)
 - Bash scipts
+- Create a user in case ssh fails
+  - [Got an Idea here](https://www.systutorials.com/39549/changing-linux-users-password-in-one-command-line/)
